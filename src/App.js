@@ -4,7 +4,7 @@ import * as d3 from 'd3'
 
 function App() {
   const svgRef = useRef();
-  const legendRef = useRef();
+  const legendRef = useRef(); //For the legend
 
   useEffect(() => {
     fetch("https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json")
