@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51a57694898369229ca302f2a0370bd0",
+    "revision": "34027fc67b3f87ad524cf0d6ffa13fae",
     "url": "/heat-map-graph/index.html"
   },
   {
-    "revision": "ede202d32230c86c66c0",
+    "revision": "96131058c57f3d6acfd2",
     "url": "/heat-map-graph/static/css/main.ecf82d3b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heat-map-graph/static/js/2.6ebc1247.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ede202d32230c86c66c0",
-    "url": "/heat-map-graph/static/js/main.21e0a72a.chunk.js"
+    "revision": "96131058c57f3d6acfd2",
+    "url": "/heat-map-graph/static/js/main.40bd810e.chunk.js"
   },
   {
     "revision": "58a499ba07b002590168",
